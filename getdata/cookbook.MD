@@ -2,9 +2,6 @@
 
 The original data for this project comes from the UCI Human Activity Recognition Using Smartphones Data Set, which contains a set of smartphone sensor readings associated with various activities such as walking, walking upstairs, walking downstairs, etc. Details of the study can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
-The data were downloaded on May 25th at approximately 3:45 PM MDT to create
-the ```averages.txt``` file contained in this repo.
-
 ## Variables
 
 Per the [project instructions](https://class.coursera.org/getdata-009/human_grading/view/courses/972587/assessments/3/submissions),
